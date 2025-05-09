@@ -1,6 +1,7 @@
 # src/agents/extractor.py
 from typing import List, Dict, Optional
 from dataclasses import dataclass
+from src.llm.backends import LLMBackend
 
 @dataclass
 class ExtractionResult:
@@ -11,7 +12,7 @@ class ExtractionResult:
     raw_text: str
 
 class ExtractorAgent:
-    def __init__(self, preprocessor, llm_backend):
+    def __init__(self, preprocessor, llm_backend: LLMBackend):
         self.pre = preprocessor
         self.llm = llm_backend
 

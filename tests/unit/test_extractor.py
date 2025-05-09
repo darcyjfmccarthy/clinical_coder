@@ -3,7 +3,8 @@ from pathlib import Path
 import os
 from dotenv import load_dotenv
 from src.agents.extractor import ExtractorAgent, ExtractionResult
-from src.agents.preprocessor import PreprocessorAgent, OpenAIBackend
+from src.agents.preprocessor import PreprocessorAgent
+from src.llm.backends import OpenAIBackend
 
 # Load environment variables
 load_dotenv()
