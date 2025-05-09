@@ -1,0 +1,21 @@
+Discharge Summary
+Patient: John Smith (65 y M)
+Admission: 14 Apr 2025   Discharge: 19 Apr 2025
+
+DISCHARGE DIAGNOSIS
+1. Community-acquired pneumonia.
+2. Essential (primary) hypertension.
+3. Type 2 diabetes mellitus, uncomplicated.
+
+Hospital Course
+Presented with fever, cough and shortness of breath. CXR showed RLL infiltrate.
+Treated with IV ceftriaxone, azithromycin, then switched to amoxicillin–
+clavulanate. BP controlled on amlodipine. Blood glucose 5–9 mmol/L on metformin.
+
+Procedures
+None.
+
+Medications
+• Amoxicillin–clavulanate 875/125 mg PO BID × 5 days
+• Amlodipine 5 mg PO OD
+• Metformin XR 1 g PO nocte
